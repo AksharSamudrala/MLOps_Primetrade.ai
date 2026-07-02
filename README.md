@@ -6,7 +6,7 @@ This project implements a minimal batch processing pipeline in Python.
 
 Features:
 - Loads configuration from YAML
-- Reads OHLCV CSV data
+- Reads the given CSV data
 - Computes rolling mean on the `close` column
 - Generates binary trading signals
 - Produces machine-readable metrics
