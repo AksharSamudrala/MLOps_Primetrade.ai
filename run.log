@@ -1,0 +1,26 @@
+2026-07-02 01:01:29,920 - INFO - ========== Job Started ==========
+2026-07-02 01:01:29,920 - INFO - Configuration validated successfully.
+2026-07-02 01:01:29,920 - INFO - Random seed set to 42
+2026-07-02 01:01:29,946 - INFO - Dataset loaded successfully with 10000 rows.
+2026-07-02 01:01:29,946 - INFO - Dataset validation successful.
+2026-07-02 01:01:29,955 - INFO - Rolling mean computed using window=5.
+2026-07-02 01:01:29,958 - INFO - Trading signals generated.
+2026-07-02 01:01:29,961 - INFO - Rows=10000, Signal Rate=0.4989, Latency=37 ms
+2026-07-02 01:01:29,961 - INFO - Metrics written successfully.
+2026-07-02 01:01:29,961 - INFO - ========== Job Completed Successfully ==========
+2026-07-02 17:16:34,203 - INFO - ========== Job Started ==========
+2026-07-02 17:16:34,219 - INFO - Configuration validated successfully.
+2026-07-02 17:16:34,219 - INFO - Random seed set to 42
+2026-07-02 17:17:13,461 - INFO - ========== Job Started ==========
+2026-07-02 17:17:13,461 - INFO - Configuration validated successfully.
+2026-07-02 17:17:13,461 - INFO - Random seed set to 42
+2026-07-02 19:21:19,831 - INFO - ========== Job Started ==========
+2026-07-02 19:21:19,833 - INFO - Configuration validated successfully.
+2026-07-02 19:21:19,833 - INFO - Random seed set to 42
+2026-07-02 19:21:19,863 - INFO - Dataset loaded successfully with 10000 rows.
+2026-07-02 19:21:19,863 - INFO - Dataset validation successful.
+2026-07-02 19:21:19,876 - INFO - Rolling mean computed using window=5.
+2026-07-02 19:21:19,878 - INFO - Trading signals generated.
+2026-07-02 19:21:19,886 - INFO - Rows=10000, Signal Rate=0.4989, Latency=57 ms
+2026-07-02 19:21:19,886 - INFO - Metrics written successfully.
+2026-07-02 19:21:19,886 - INFO - ========== Job Completed Successfully ==========
